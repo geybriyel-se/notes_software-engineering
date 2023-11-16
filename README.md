@@ -2,6 +2,10 @@
 
 - [Phases of the Software Development Lifecycle](https://gist.github.com/geybriyel-se/258805f5286801db09993cc2e8b9535b)
 - [Building Quality Software: Common Software Engineering Processes](https://gist.github.com/geybriyel-se/7900527fed00e581c16e4ef1492be855)
+- [Steps to Gathering Requirements](https://gist.github.com/geybriyel-se/addc51d37cb7541d5a22a82be5e901a8)
+- [Common Software Development Methodologies](https://gist.github.com/geybriyel-se/fbb0c8f55936c410ca953032e0ab4a65)
+- [Scrum](https://gist.github.com/geybriyel-se/d121aabeb68faafea9e11b68864e5449)
+- [Software Versions](https://gist.github.com/geybriyel-se/11b11c793413f95466c7184b3116ca09)
 
 
 # Courses
